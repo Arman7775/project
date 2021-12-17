@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\bin\Debug\kalkulyator_arman.exe.config
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\bin\Debug\kalkulyator_arman.exe
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\bin\Debug\kalkulyator_arman.pdb
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\obj\Debug\kalkulyator_arman.csprojAssemblyReference.cache
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\obj\Debug\kalkulyator_arman.Form1.resources
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\obj\Debug\kalkulyator_arman.Properties.Resources.resources
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\obj\Debug\kalkulyator_arman.csproj.GenerateResource.cache
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\obj\Debug\kalkulyator_arman.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\obj\Debug\kalkulyator_arman.exe
+C:\Users\student\source\repos\kalkulyator_arman\kalkulyator_arman\obj\Debug\kalkulyator_arman.pdb
