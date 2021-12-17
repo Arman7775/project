@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\ArmanBD\ArmanBD\bin\Debug\Database1.mdf
+C:\Users\student\source\repos\ArmanBD\ArmanBD\bin\Debug\Database1_log.ldf
+C:\Users\student\source\repos\ArmanBD\ArmanBD\bin\Debug\ArmanBD.exe.config
+C:\Users\student\source\repos\ArmanBD\ArmanBD\bin\Debug\ArmanBD.exe
+C:\Users\student\source\repos\ArmanBD\ArmanBD\bin\Debug\ArmanBD.pdb
+C:\Users\student\source\repos\ArmanBD\ArmanBD\obj\Debug\ArmanBD.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ArmanBD\ArmanBD\obj\Debug\ArmanBD.Form1.resources
+C:\Users\student\source\repos\ArmanBD\ArmanBD\obj\Debug\ArmanBD.Properties.Resources.resources
+C:\Users\student\source\repos\ArmanBD\ArmanBD\obj\Debug\ArmanBD.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ArmanBD\ArmanBD\obj\Debug\ArmanBD.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ArmanBD\ArmanBD\obj\Debug\ArmanBD.exe
+C:\Users\student\source\repos\ArmanBD\ArmanBD\obj\Debug\ArmanBD.pdb
