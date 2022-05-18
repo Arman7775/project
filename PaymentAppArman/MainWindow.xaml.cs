@@ -21,44 +21,47 @@ namespace PaymentAppArman
     /// </summary>
     public partial class MainWindow : Window
     {
-        private aymentsBaseEntities1 _context = new aymentsBaseEntities1();
+        private paymenBaseEntities _context = new paymenBaseEntities();
+
+
         public MainWindow()
         {
             InitializeComponent();
             ChartPayments.ChartAreas.Add(new ChartArea("Main"));
 
-            var currentSeries = new Series ("Payments")
+            var currentSeries = new Series("Payments")
             {
-                IsValueShownAsLabel = true
+                IsValueShownAsLabel = true,
             };
             ChartPayments.Series.Add(currentSeries);
 
             ComboUsers.ItemsSource = _context.Users.ToList();
             ComboChartTypes.ItemsSource = Enum.GetValues(typeof(SeriesChartType));
-
         }
 
-
         private void UpdateChart(object sender, SelectionChangedEventArgs e)
+        
+            
         {
             if (ComboUsers.SelectedItem is User currentUser &&
-                ComboChartTypes.SelectedItem is SeriesChartType currentType)
+                      ComboChartTypes.SelectedItem is SeriesChartType currentType)
+            {
 
-                {
                 Series currentSeries = ChartPayments.Series.FirstOrDefault();
                 currentSeries.ChartType = currentType;
                 currentSeries.Points.Clear();
-                 
+
                 var categoriesList = _context.Categories.ToList();
                 foreach (var category in categoriesList)
                 {
                     currentSeries.Points.AddXY(category.Name,
                         _context.Payments.ToList().Where(p => p.User == currentUser
-                    && p.Category == category).Sum(p => p.Price * p.Num)); 
+                        && p.Category == category).Sum(p => p.Price * p.Nam));
                 }
-
             }
-        }
 
+        }
     }
 }
+
+

@@ -1,7 +1,7 @@
-﻿<Application x:Class="PaymentAppArman.App"
+﻿<Application x:Class="PaymentAppTurvandyan.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:PaymentAppArman"
+             xmlns:local="clr-namespace:PaymentAppTurvandyan"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
